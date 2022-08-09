@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node web-server/page1.js"
+    "start": "node weather-app/web-server/page1.js"
   },
   "keywords": [],
   "author": "",
